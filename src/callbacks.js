@@ -1,5 +1,5 @@
-
 //file:///Users/eliaahadi/Downloads/higher-order-functions-workshop-master/SpecRunner.html?grep=Callback%20Exercises
+
 // ===================== EACH =====================
 
 // Call iterator(value, key, collection) for each element of collection.
