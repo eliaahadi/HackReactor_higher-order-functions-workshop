@@ -1,5 +1,5 @@
 //located at file:///Users/eliaahadi/Downloads/higher-order-functions-workshop-master/SpecRunner.html?grep=Callback%20Exercises
-
+// File used to test EACH (FOREACH equivalent), FILTER, MAP, REDUCE
 // ===================== EACH =====================
 
 // Call iterator(value, key, collection) for each element of collection.
